@@ -1,0 +1,9 @@
+{
+	"name": "df-gsk-training",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "090b737e-8047-4ce3-b459-70c899a6c777",
+		"tenantId": "734bc3b3-5f14-49f7-a817-85c51014064d"
+	}
+}
